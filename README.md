@@ -54,5 +54,5 @@ This website showcases my projects, achievements, and professional experience as
 
 ## 📬 Contact
 
-- **Email:** [ranjithganesh7@gmail.com](mailto:ranjithganeshb@gmail.com)  
+- **Email:** [ranjithganeshb@gmail.com](mailto:ranjithganeshb@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/ranjithganesh7](https://linkedin.com/in/ranjithganesh7)
