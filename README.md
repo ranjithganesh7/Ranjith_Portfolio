@@ -40,8 +40,6 @@ This website showcases my projects, achievements, and professional experience as
 
 ├── lib/ # Utilities and helpers
 
-├── pages/api/ # Backend API routes
-
 ├── public/ # Static assets (images, logos)
 
 ├── styles/ # Global and component styles
